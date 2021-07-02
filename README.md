@@ -1,4 +1,6 @@
 # NoteApp1 (Assignment 5)
+reference=>https://www.youtube.com/watch?v=OmL8ueRKDy8
+I followed every steps done in this video except for ios keyboard since i am running it on physical android device.
 
 ![1625221730812](https://user-images.githubusercontent.com/58290134/124261525-8463d800-db4e-11eb-9053-56c98bdd1cfd.jpg)
 ![1625221730824](https://user-images.githubusercontent.com/58290134/124261529-862d9b80-db4e-11eb-8a07-62b03c94405a.jpg)
